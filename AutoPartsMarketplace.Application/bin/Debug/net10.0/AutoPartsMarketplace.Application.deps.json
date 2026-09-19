@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AutoPartsMarketplace.Application/1.0.0": {
+        "dependencies": {
+          "AutoPartsMarketplace.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AutoPartsMarketplace.Application.dll": {}
+        }
+      },
+      "AutoPartsMarketplace.Domain/1.0.0": {
+        "runtime": {
+          "AutoPartsMarketplace.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoPartsMarketplace.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPartsMarketplace.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

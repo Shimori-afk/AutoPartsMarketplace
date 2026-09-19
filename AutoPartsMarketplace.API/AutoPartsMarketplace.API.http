@@ -1,0 +1,6 @@
+@AutoPartsMarketplace.API_HostAddress = http://localhost:5187
+
+GET {{AutoPartsMarketplace.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

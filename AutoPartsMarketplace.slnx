@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AutoPartsMarketplace.API/AutoPartsMarketplace.API.csproj" />
+  <Project Path="AutoPartsMarketplace.Application/AutoPartsMarketplace.Application.csproj" />
+  <Project Path="AutoPartsMarketplace.Domain/AutoPartsMarketplace.Domain.csproj" />
+  <Project Path="AutoPartsMarketplace.Infrastructure/AutoPartsMarketplace.Infrastructure.csproj" />
+  <Project Path="AutoPartsMarketplace.Tests/AutoPartsMarketplace.Tests.csproj" />
+</Solution>
