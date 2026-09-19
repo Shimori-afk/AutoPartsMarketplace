@@ -13,3 +13,4 @@ G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net1
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\refint\AutoPartsMarketplace.Application.dll
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.pdb
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\ref\AutoPartsMarketplace.Application.dll
+G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.sourcelink.json

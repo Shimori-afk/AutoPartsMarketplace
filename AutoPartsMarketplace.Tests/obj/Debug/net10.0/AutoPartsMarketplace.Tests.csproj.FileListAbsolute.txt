@@ -100,3 +100,4 @@ G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Tests\obj\Debug\net10.0\re
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Tests\obj\Debug\net10.0\AutoPartsMarketplace.Tests.pdb
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Tests\obj\Debug\net10.0\AutoPartsMarketplace.Tests.genruntimeconfig.cache
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Tests\obj\Debug\net10.0\ref\AutoPartsMarketplace.Tests.dll
+G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Tests\obj\Debug\net10.0\AutoPartsMarketplace.Tests.sourcelink.json

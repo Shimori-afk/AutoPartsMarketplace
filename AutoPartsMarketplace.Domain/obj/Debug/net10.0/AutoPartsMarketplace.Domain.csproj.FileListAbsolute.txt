@@ -9,3 +9,4 @@ G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\A
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\refint\AutoPartsMarketplace.Domain.dll
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.pdb
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\ref\AutoPartsMarketplace.Domain.dll
+G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.sourcelink.json
