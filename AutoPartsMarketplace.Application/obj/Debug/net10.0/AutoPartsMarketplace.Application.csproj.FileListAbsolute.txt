@@ -8,9 +8,9 @@ G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net1
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.AssemblyInfoInputs.cache
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.AssemblyInfo.cs
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.csproj.CoreCompileInputs.cache
+G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.sourcelink.json
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPart.F806EA19.Up2Date
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.dll
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\refint\AutoPartsMarketplace.Application.dll
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.pdb
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\ref\AutoPartsMarketplace.Application.dll
-G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Application\obj\Debug\net10.0\AutoPartsMarketplace.Application.sourcelink.json

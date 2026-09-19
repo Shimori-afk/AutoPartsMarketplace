@@ -10,5 +10,6 @@ namespace AutoPartsMarketplace.Infrastructure.Data
         }
 
         public DbSet<Part> Parts => Set<Part>();
+        public DbSet<Category> Categories => Set<Category>();
     }
 }
