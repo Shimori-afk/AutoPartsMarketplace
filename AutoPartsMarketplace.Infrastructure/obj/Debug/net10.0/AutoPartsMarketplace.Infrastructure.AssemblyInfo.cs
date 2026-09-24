@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoPartsMarketplace.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ec1b0ac9903e70d77bf9c59215b2185f66633e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6b2573df1d34c108de4ef601395b42dbcf09d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoPartsMarketplace.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoPartsMarketplace.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
