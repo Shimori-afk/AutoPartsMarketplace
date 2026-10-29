@@ -10,3 +10,15 @@ G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\A
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\refint\AutoPartsMarketplace.Domain.dll
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.pdb
 G:\projects\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\ref\AutoPartsMarketplace.Domain.dll
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\bin\Debug\net10.0\AutoPartsMarketplace.Domain.deps.json
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\bin\Debug\net10.0\AutoPartsMarketplace.Domain.dll
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\bin\Debug\net10.0\AutoPartsMarketplace.Domain.pdb
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.AssemblyInfoInputs.cache
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.AssemblyInfo.cs
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.csproj.CoreCompileInputs.cache
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.sourcelink.json
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.dll
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\refint\AutoPartsMarketplace.Domain.dll
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\AutoPartsMarketplace.Domain.pdb
+F:\Project\AutoPartsMarketplace\AutoPartsMarketplace.Domain\obj\Debug\net10.0\ref\AutoPartsMarketplace.Domain.dll

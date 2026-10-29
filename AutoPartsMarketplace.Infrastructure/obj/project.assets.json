@@ -2685,31 +2685,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pllor\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Shimori\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Infrastructure\\AutoPartsMarketplace.Infrastructure.csproj",
+      "projectUniqueName": "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Infrastructure\\AutoPartsMarketplace.Infrastructure.csproj",
       "projectName": "AutoPartsMarketplace.Infrastructure",
-      "projectPath": "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Infrastructure\\AutoPartsMarketplace.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\pllor\\.nuget\\packages\\",
-      "outputPath": "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Infrastructure\\obj\\",
+      "projectPath": "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Infrastructure\\AutoPartsMarketplace.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Shimori\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pllor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Shimori\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2717,11 +2711,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Application\\AutoPartsMarketplace.Application.csproj": {
-              "projectPath": "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Application\\AutoPartsMarketplace.Application.csproj"
+            "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Application\\AutoPartsMarketplace.Application.csproj": {
+              "projectPath": "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Application\\AutoPartsMarketplace.Application.csproj"
             },
-            "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Domain\\AutoPartsMarketplace.Domain.csproj": {
-              "projectPath": "G:\\projects\\AutoPartsMarketplace\\AutoPartsMarketplace.Domain\\AutoPartsMarketplace.Domain.csproj"
+            "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Domain\\AutoPartsMarketplace.Domain.csproj": {
+              "projectPath": "F:\\Project\\AutoPartsMarketplace\\AutoPartsMarketplace.Domain\\AutoPartsMarketplace.Domain.csproj"
             }
           }
         }
@@ -2774,7 +2768,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
